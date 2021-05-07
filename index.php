@@ -39,10 +39,10 @@
       <div class="col">
         <div class="card">
           <div class="card-header">
-            Class
+            Section
           </div>
           <div class="card-body">
-            <div class="card-title"><!-- Output the class here --></div>
+            <div class="card-title"><!-- Output the section here --></div>
           </div>
         </div>
       </div>
